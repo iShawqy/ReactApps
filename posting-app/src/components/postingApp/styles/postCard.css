@@ -1,0 +1,15 @@
+.postCardContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 300px;
+    height: fit-content;
+    border-radius: 5px;
+    background-color: #5994ff;
+    color: white;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+}

@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ibra"
+    },
+    {
+      "id": 2,
+      "username": "Batman"
+    }
+  ],
+  "posts": [
+    {
+      "postContent": "Type your post here!",
+      "username": "Ibra",
+      "id": 1
+    },
+    {
+      "postContent": "my second post",
+      "username": "Ibra",
+      "id": 2
+    },
+    {
+      "postContent": "asdasdasdasd",
+      "username": "Ibra",
+      "id": 3
+    },
+    {
+      "postContent": "asdasd",
+      "username": "Ibra",
+      "id": 4
+    },
+    {
+      "postContent": "asdasd",
+      "username": "Ibra",
+      "id": 5
+    },
+    {
+      "postContent": "hey you, test post",
+      "username": "Ibra",
+      "id": 6
+    },
+    {
+      "postContent": "thats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very longthats a test post very long",
+      "username": "Ibra",
+      "id": 7
+    },
+    {
+      "postContent": "hiii",
+      "username": "Ibra",
+      "id": 8
+    },
+    {
+      "postContent": "how you doing?",
+      "username": "Ibra",
+      "id": 9
+    },
+    {
+      "postContent": "new post",
+      "username": "Ibra",
+      "id": 10
+    },
+    {
+      "postContent": "new post",
+      "username": "Ibra",
+      "id": 11
+    },
+    {
+      "postContent": "how is life?",
+      "username": "Ibra",
+      "id": 12
+    },
+    {
+      "postContent": "last post",
+      "username": "Ibra",
+      "id": 13
+    },
+    {
+      "postContent": "heyy",
+      "username": "Ibra",
+      "id": 14
+    },
+    {
+      "postContent": "how is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsadhow is asdasdsad",
+      "username": "Ibra",
+      "id": 15
+    },
+    {
+      "postContent": "post with emoji 😄",
+      "username": "Ibra",
+      "id": 16
+    },
+    {
+      "postContent": "that is my last post",
+      "username": "Ibra",
+      "id": 17
+    },
+    {
+      "postContent": "i love you",
+      "username": "Ibra",
+      "id": 18
+    },
+    {
+      "postContent": "how is life?\n",
+      "username": "Ibra",
+      "id": 19
+    },
+    {
+      "postContent": "good?",
+      "username": "Ibra",
+      "id": 20
+    },
+    {
+      "postContent": "yea?",
+      "username": "Ibra",
+      "id": 21
+    },
+    {
+      "postContent": "what r u doing?",
+      "username": "Ibra",
+      "id": 22
+    },
+    {
+      "postContent": "yyyy",
+      "username": "Ibra",
+      "id": 23
+    },
+    {
+      "postContent": "how is life?",
+      "username": "Ibra",
+      "id": 24
+    },
+    {
+      "postContent": "yooo",
+      "username": "Ibra",
+      "id": 25
+    },
+    {
+      "postContent": "asdasd",
+      "username": "Ibra",
+      "id": 26
+    },
+    {
+      "postContent": "asdasd",
+      "username": "Ibra",
+      "id": 27
+    },
+    {
+      "postContent": "asdasdasd",
+      "username": "Ibra",
+      "id": 28
+    },
+    {
+      "postContent": "asdasd\n",
+      "username": "Ibra",
+      "id": 29
+    },
+    {
+      "postContent": "asdasd\n",
+      "username": "Ibra",
+      "id": 30
+    },
+    {
+      "postContent": "asdasd\n",
+      "username": "Ibra",
+      "id": 31
+    },
+    {
+      "postContent": "asdasdasdasdasd\n",
+      "username": "Ibra",
+      "id": 32
+    },
+    {
+      "postContent": "yo\n",
+      "username": "Ibra",
+      "id": 33
+    },
+    {
+      "postContent": "how you doing?\n",
+      "username": "Ibra",
+      "id": 34
+    },
+    {
+      "postContent": "i am fine, you?\n",
+      "username": "Ibra",
+      "id": 35
+    }
+  ]
+}

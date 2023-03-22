@@ -1,0 +1,9 @@
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: fit-content;
+    height: fit-content;
+    margin: 10px;
+
+}

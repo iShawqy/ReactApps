@@ -1,0 +1,84 @@
+.NewPostMainContainer{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.postContent{
+    margin: 5px;
+    height: 80%;
+    width: 80%;
+    overflow-y: scroll;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    font-size: 14px;
+    font-family: Arial;
+    resize: none;
+}
+
+.postLabel{
+    text-align: left;
+    font-size: 16px;
+    font-family: Arial;
+    margin-left: 5px;
+}
+
+
+.newPostsBtnsContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.postBtn{
+    margin: 10px;
+    width: fit-content;
+    height: fit-content;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: Arial;
+    background-color: #00ca00;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    opacity: 0.6;
+
+}
+
+.postBtn:hover{
+    opacity: 1;
+}
+
+
+.seePostsBtn{
+    margin: 10px;
+    width: fit-content;
+    height: fit-content;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: Arial;
+    background-color: #306fdb;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    opacity: 0.6;
+
+}
+
+.seePostsBtn:hover{
+    opacity: 1;
+}
+
+
